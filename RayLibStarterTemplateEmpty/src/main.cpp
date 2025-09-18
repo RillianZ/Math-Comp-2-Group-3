@@ -35,7 +35,7 @@ int main(void)
 
         DrawText("move the ball with arrow keys", 10, 10, 20, DARKGRAY);
 
-        DrawCircleV(ballPosition, 50, MAROON);
+        DrawCircleV(ballPosition, 50, BLUE);
 
         EndDrawing();
         //----------------------------------------------------------------------------------
