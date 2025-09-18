@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\RayLibStarterTemplateEmpty"
+    "\\RayLibStarterTemplateEmpty",
+    "\\RayLibStarterTemplateEmpty\\src"
   ],
-  "SelectedNode": "\\RayLibStarterTemplateEmpty\\RayLibStarterTemplateEmpty.sln",
+  "SelectedNode": "\\RayLibStarterTemplateEmpty\\src\\main.cpp",
   "PreviewInSolutionExplorer": false
 }
