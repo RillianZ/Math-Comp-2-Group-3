@@ -13,6 +13,7 @@ Oskar: Lead designer, graphics, 2D art, Audio design
 (Note, any team member can help with any task, but these are the main roles)
 
 To do list Noah: 22/09
+Test
 Add Start menu, game over screen and setup basic main screen (simple shapes to start)
 Add basic collisons system using raylib collison check
 
