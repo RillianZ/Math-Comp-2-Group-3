@@ -14,12 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -28,7 +24,7 @@
               "RelativeDocumentMoniker": "src\\main.cpp",
               "ToolTip": "F:\\Documents\\GitHub\\Math-Comp-2-Group-3\\RayLibStarterTemplateEmpty\\src\\main.cpp",
               "RelativeToolTip": "src\\main.cpp",
-              "ViewState": "AgIAANgAAAAAAAAAAAAAAOIAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAANgAAAAAAAAAAAAAAPYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-09-22T13:04:33.357Z",
               "EditorCaption": ""
