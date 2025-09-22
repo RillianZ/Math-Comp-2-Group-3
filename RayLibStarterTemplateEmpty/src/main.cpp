@@ -12,8 +12,9 @@ Alvin: Help with programming, scoreboards, file handling, Calculations
 Oskar: Lead designer, graphics, 2D art, Audio design
 (Note, any team member can help with any task, but these are the main roles)
 
-To do list Noah: 22/09
-Test
+To do list Noah: 23/09
+I FIXED IT! After 2 hours of trial and error with github ignored, I fixed the github issue!
+Holy shit!
 Add Start menu, game over screen and setup basic main screen (simple shapes to start)
 Add basic collisons system using raylib collison check
 
