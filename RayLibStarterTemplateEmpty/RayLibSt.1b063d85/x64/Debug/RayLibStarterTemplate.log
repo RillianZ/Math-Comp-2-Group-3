@@ -1,9 +1,11 @@
 ﻿  main.cpp
-  LINK : C:\Users\danie\Documents\GitHub\Math-Comp-2-Group-3\RayLibStarterTemplateEmpty\x64\Debug\RayLibStarterTemplateEmpty.exe not found or not built by the last incremental link; performing full link
-raylib.lib(rcore.obj) : warning LNK4099: PDB 'raylib.pdb' was not found with 'raylib.lib(rcore.obj)' or at 'C:\Users\danie\Documents\GitHub\Math-Comp-2-Group-3\RayLibStarterTemplateEmpty\x64\Debug\raylib.pdb'; linking object as if no debug info
-raylib.lib(rshapes.obj) : warning LNK4099: PDB 'raylib.pdb' was not found with 'raylib.lib(rshapes.obj)' or at 'C:\Users\danie\Documents\GitHub\Math-Comp-2-Group-3\RayLibStarterTemplateEmpty\x64\Debug\raylib.pdb'; linking object as if no debug info
-raylib.lib(rtext.obj) : warning LNK4099: PDB 'raylib.pdb' was not found with 'raylib.lib(rtext.obj)' or at 'C:\Users\danie\Documents\GitHub\Math-Comp-2-Group-3\RayLibStarterTemplateEmpty\x64\Debug\raylib.pdb'; linking object as if no debug info
-raylib.lib(utils.obj) : warning LNK4099: PDB 'raylib.pdb' was not found with 'raylib.lib(utils.obj)' or at 'C:\Users\danie\Documents\GitHub\Math-Comp-2-Group-3\RayLibStarterTemplateEmpty\x64\Debug\raylib.pdb'; linking object as if no debug info
-raylib.lib(rtextures.obj) : warning LNK4099: PDB 'raylib.pdb' was not found with 'raylib.lib(rtextures.obj)' or at 'C:\Users\danie\Documents\GitHub\Math-Comp-2-Group-3\RayLibStarterTemplateEmpty\x64\Debug\raylib.pdb'; linking object as if no debug info
-raylib.lib(rglfw.obj) : warning LNK4099: PDB 'raylib.pdb' was not found with 'raylib.lib(rglfw.obj)' or at 'C:\Users\danie\Documents\GitHub\Math-Comp-2-Group-3\RayLibStarterTemplateEmpty\x64\Debug\raylib.pdb'; linking object as if no debug info
-  RayLibStarterTemplate.vcxproj -> C:\Users\danie\Documents\GitHub\Math-Comp-2-Group-3\RayLibStarterTemplateEmpty\x64\Debug\RayLibStarterTemplateEmpty.exe
+F:\Documents\GitHub\Math-Comp-2-Group-3\RayLibStarterTemplateEmpty\src\main.cpp(94,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+F:\Documents\GitHub\Math-Comp-2-Group-3\RayLibStarterTemplateEmpty\src\main.cpp(201,56): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+F:\Documents\GitHub\Math-Comp-2-Group-3\RayLibStarterTemplateEmpty\src\main.cpp(202,70): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+F:\Documents\GitHub\Math-Comp-2-Group-3\RayLibStarterTemplateEmpty\src\main.cpp(208,65): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+F:\Documents\GitHub\Math-Comp-2-Group-3\RayLibStarterTemplateEmpty\src\main.cpp(209,79): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+F:\Documents\GitHub\Math-Comp-2-Group-3\RayLibStarterTemplateEmpty\src\main.cpp(216,78): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+F:\Documents\GitHub\Math-Comp-2-Group-3\RayLibStarterTemplateEmpty\src\main.cpp(220,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+F:\Documents\GitHub\Math-Comp-2-Group-3\RayLibStarterTemplateEmpty\src\main.cpp(226,58): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+F:\Documents\GitHub\Math-Comp-2-Group-3\RayLibStarterTemplateEmpty\src\main.cpp(227,95): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  RayLibStarterTemplate.vcxproj -> F:\Documents\GitHub\Math-Comp-2-Group-3\RayLibStarterTemplateEmpty\x64\Debug\RayLibStarterTemplateEmpty.exe
