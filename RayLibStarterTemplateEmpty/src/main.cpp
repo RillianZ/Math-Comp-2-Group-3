@@ -4,7 +4,24 @@
 
 
 using namespace std;
+/*
+README-------------------------------------
+To do list Noah: 22/09
+Add Start menu, game over screen and setup basic main screen (simple drawing)
 
+Add basic collisons system using raylib collison check
+
+Add basic spawn and despawn system for objects
+
+To do later:
+Add :
+Music
+Graphics
+Scoreboards
+
+
+---------------------------------------------
+*/
 //----------------------------------------------------------------------------------
 // Program main entry point
 //------------------------------------------------------------------------------------
@@ -21,7 +38,6 @@ int main(void)
 
     SetTargetFPS(60);               // Set our game to run at 60 frames-per-second
     //--------------------------------------------------------------------------------------
-
     // Main game loop
     while (!WindowShouldClose())    // Detect window close button or ESC key
     {
@@ -32,7 +48,6 @@ int main(void)
         if (IsKeyDown(KEY_UP)) ballPosition.y -= 2.0f;
         if (IsKeyDown(KEY_DOWN)) ballPosition.y += 2.0f;
         //----------------------------------------------------------------------------------
-
         // Draw
         //----------------------------------------------------------------------------------
         BeginDrawing();
