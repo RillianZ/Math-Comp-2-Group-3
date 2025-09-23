@@ -1,15 +1,16 @@
 ﻿  main.cpp
 F:\Documents\GitHub\Math-Comp-2-Group-3\RayLibStarterTemplateEmpty\src\main.cpp(101,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
-F:\Documents\GitHub\Math-Comp-2-Group-3\RayLibStarterTemplateEmpty\src\main.cpp(217,56): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-F:\Documents\GitHub\Math-Comp-2-Group-3\RayLibStarterTemplateEmpty\src\main.cpp(218,70): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-F:\Documents\GitHub\Math-Comp-2-Group-3\RayLibStarterTemplateEmpty\src\main.cpp(224,65): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-F:\Documents\GitHub\Math-Comp-2-Group-3\RayLibStarterTemplateEmpty\src\main.cpp(225,79): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-F:\Documents\GitHub\Math-Comp-2-Group-3\RayLibStarterTemplateEmpty\src\main.cpp(232,78): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-F:\Documents\GitHub\Math-Comp-2-Group-3\RayLibStarterTemplateEmpty\src\main.cpp(236,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-F:\Documents\GitHub\Math-Comp-2-Group-3\RayLibStarterTemplateEmpty\src\main.cpp(242,58): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-F:\Documents\GitHub\Math-Comp-2-Group-3\RayLibStarterTemplateEmpty\src\main.cpp(243,95): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+F:\Documents\GitHub\Math-Comp-2-Group-3\RayLibStarterTemplateEmpty\src\main.cpp(220,56): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+F:\Documents\GitHub\Math-Comp-2-Group-3\RayLibStarterTemplateEmpty\src\main.cpp(221,70): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+F:\Documents\GitHub\Math-Comp-2-Group-3\RayLibStarterTemplateEmpty\src\main.cpp(227,65): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+F:\Documents\GitHub\Math-Comp-2-Group-3\RayLibStarterTemplateEmpty\src\main.cpp(228,79): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+F:\Documents\GitHub\Math-Comp-2-Group-3\RayLibStarterTemplateEmpty\src\main.cpp(235,78): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+F:\Documents\GitHub\Math-Comp-2-Group-3\RayLibStarterTemplateEmpty\src\main.cpp(239,64): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+F:\Documents\GitHub\Math-Comp-2-Group-3\RayLibStarterTemplateEmpty\src\main.cpp(245,58): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+F:\Documents\GitHub\Math-Comp-2-Group-3\RayLibStarterTemplateEmpty\src\main.cpp(246,95): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
   RayLibStarterTemplate.vcxproj -> F:\Documents\GitHub\Math-Comp-2-Group-3\RayLibStarterTemplateEmpty\x64\Debug\RayLibStarterTemplateEmpty.exe
   updates the resource folder
+  F:\Documents\GitHub\Math-Comp-2-Group-3\RayLibStarterTemplateEmpty\resources\desktop.ini
   F:\Documents\GitHub\Math-Comp-2-Group-3\RayLibStarterTemplateEmpty\resources\logo_background.png.png
   F:\Documents\GitHub\Math-Comp-2-Group-3\RayLibStarterTemplateEmpty\resources\logo_background2.png
-  2 File(s) copied
+  3 File(s) copied
