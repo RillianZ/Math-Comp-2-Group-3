@@ -14,7 +14,9 @@ Oskar: Lead designer, graphics, 2D art, Audio design
 
 To do list Noah: 23/09
 I FIXED IT! After 2 hours of trial and error with github ignored, I fixed the github issue!
-Holy shit!
+Holy shit! No more updating of files every goddamn time the software is opened. 
+Also fuck "open in external editor" to death"
+
 Add Start menu, game over screen and setup basic main screen (simple shapes to start)
 Add basic collisons system using raylib collison check
 
@@ -90,7 +92,7 @@ END README------------------------------
 typedef enum GameScreen { LOGO = 0, TITLE, GAMEPLAY, GAMEOVER } GameScreen;
 
 //Load textures here
-Texture2D backgroundLogoScreen = LoadTexture("resources/logo_background.png");
+
 
 //helper functions
 void DrawCenteredText(const char* text, int posY, int fontSize, Color color)
@@ -108,6 +110,11 @@ void DrawCenteredText(const char* text, int posY, int fontSize, Color color)
 
 int main(void)
 {
+	//BROKEN IMAGE LOADING CODE FIX LATER
+	//Texture2D backgroundLogoScreen = LoadTexture("resources/logo_background2.png");
+	//TraceLog(LOG_INFO, "Loaded background texture with size: %i x %i", backgroundLogoScreen.width, backgroundLogoScreen.height);
+
+
 	// Initialization
 	//--------------------------------------------------------------------------------------
 	const int screenWidth = 1200;
@@ -202,8 +209,14 @@ int main(void)
 		{
 		case LOGO:
 		{
-			// TODO: Draw LOGO screen here!
-			DrawTexture(backgroundLogoScreen, 0, 0, WHITE);
+			/*
+			* BROKEN IMAGE LOADING CODE, FIX LATER
+			//int textureX = screenWidth / 2 - backgroundLogoScreen.width / 2;
+			//int textureY = screenHeight / 2 - backgroundLogoScreen.height / 2;
+
+			// Draw the texture at the calculated position
+			//DrawTexture(backgroundLogoScreen, textureX, textureY, WHITE);
+			*/
 			DrawCenteredText("LOGO SCREEN", (float)screenHeight / 2, 50, LIGHTGRAY);
 			DrawCenteredText("WAIT for 3 SECONDS...", (float)screenHeight / 2 - 100, 40, GRAY);
 		} break;
@@ -241,7 +254,8 @@ int main(void)
 
 	// De-Initialization
 	//--------------------------------------------------------------------------------------
-	UnloadTexture(backgroundLogoScreen);
+	//BROKEN IMAGE CODE FIX LATER
+	//UnloadTexture(backgroundLogoScreen);
 	CloseWindow();      
 	//--------------------------------------------------------------------------------------
 
